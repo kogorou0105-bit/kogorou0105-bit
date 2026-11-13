@@ -1,2 +1,2 @@
-# Hi, 我是 Kogorou  ٩(ˊᗜˋ*)و
-- 这里放一些代码、笔记和正在慢慢长大的想法。🌱
+👋 Hey, welcome to my little corner of GitHub.
+☕ A little code, a little curiosity, one step at a time.
